@@ -1,2 +1,4 @@
 <$PHP
 echo "ola mundo"
+
+novo arquivo para teste
